@@ -86,6 +86,7 @@ ___
 ## まとめるべきナレッジ
 - GBDT, LightGBM, CatBoost
 - Support Vector Machine
+- Huber
 
 ## 読むべき論文
 - [Response Transformation and Profit Decomposition for Revenue Uplift Modeling](https://arxiv.org/pdf/1911.08729)
