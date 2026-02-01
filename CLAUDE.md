@@ -62,6 +62,10 @@ The repository uses both English and Japanese. Japanese headers (`ノート`, `�
 - Manual notes should be placed within `{% persist %}` blocks in the template to survive re-exports
 - The `.obsidian` directory contains Obsidian vault configuration; modifications affect the editor experience
 
+# GitHub 運用ルール
+- **URL:** `https://github.com/tomimasu2/my-research-memo`
+- **ツール:** GitHub操作（接続・起票・閲覧）には必ず `gh` コマンドを使用すること。
+
 ## Language Rules
 
 - **Internal thinking**: English
